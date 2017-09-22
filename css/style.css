@@ -741,7 +741,7 @@ section.callaction {
 10. Inner - Section: page headline
 ==================================== */
 
-#inner-headline{
+#inner-headline, .inner-headline{
 	background:#f2f2f2;
 	position:relative;
 	margin:0;
@@ -750,7 +750,7 @@ section.callaction {
 }
 
 
-#inner-headline .inner-heading h2 {
+#inner-headline h2, .inner-heading h2 {
 	color:#fff;
 	margin:20px 0 0 0;
 }
